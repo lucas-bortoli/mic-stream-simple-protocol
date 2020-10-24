@@ -1,6 +1,6 @@
 {
 	"name": "mic-stream-simple-protocol",
-	"author": "pantheonlbs"
+	"author": "pantheonlbs",
 	"dependencies": {
 		"naudiodon": "^2.2.4"
 	}
